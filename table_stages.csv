@@ -1,0 +1,101 @@
+﻿id_stage,etablissement,localisation,service,encadrant,signalement
+STG_001,CHU Bordeaux,Bordeaux,Stérilisation hospitalière,Dr. Moreau,0
+STG_002,CHU Lille,Lille,Réanimation,Dr. Lefebvre,0
+STG_003,Clinique du Parc,Roubaix,Chirurgie générale,Dr. Simon,0
+STG_004,CH Lens,Lens,Orthopédie,Dr. Lefebvre,0
+STG_005,CHU Marseille,Marseille,Cardiologie,Dr. Durand,0
+STG_006,CHU Marseille,Marseille,Salle de naissance,Dr. Durand,0
+STG_007,CHU Lille,Lille,Omnipratique dentaire,Dr. Thomas,0
+STG_008,Clinique du Parc,Roubaix,Dermatologie,Dr. Garcia,0
+STG_009,CH Valenciennes,Valenciennes,Omnipratique dentaire,Dr. Simon,0
+STG_010,Clinique Saint-Luc,Bruxelles,Dermatologie,Dr. Simon,0
+STG_011,Clinique Saint-Luc,Bruxelles,Médecine générale,Dr. Martin,0
+STG_012,CH Dunkerque,Dunkerque,Chirurgie générale,Dr. Bertrand,0
+STG_013,CHU Marseille,Marseille,Biologie médicale,Dr. Garcia,0
+STG_014,CHU Lille,Lille,Pédiatrie,Dr. Richard,0
+STG_015,Clinique Saint-Luc,Bruxelles,Néonatologie,Dr. Garcia,0
+STG_016,CHU Lille,Lille,Cardiologie,Dr. Leroy,0
+STG_017,CH Dunkerque,Dunkerque,Psychiatrie,Dr. Michel,0
+STG_018,CHU Marseille,Marseille,Ophtalmologie,Dr. Roux,0
+STG_019,CHU Lyon,Lyon,Suivi grossesse pathologique,Dr. Bertrand,0
+STG_020,CH Lens,Lens,Pharmacie hospitalière,Dr. Roux,0
+STG_021,CH Lens,Lens,Psychiatrie,Dr. Robert,0
+STG_022,Clinique Saint-Luc,Bruxelles,Orthopédie,Dr. Leroy,0
+STG_023,CH Lens,Lens,Gynécologie-Obstétrique,Dr. Simon,0
+STG_024,CHU Lyon,Lyon,Orthopédie,Dr. Martin,0
+STG_025,CHU Lille,Lille,ORL,Dr. Roux,0
+STG_026,CH Dunkerque,Dunkerque,Pharmacie hospitalière,Dr. Richard,0
+STG_027,CHU Lyon,Lyon,Pharmacie hospitalière,Dr. Bernard,0
+STG_028,CH Dunkerque,Dunkerque,Dermatologie,Dr. Garcia,0
+STG_029,CH Dunkerque,Dunkerque,Pharmacie oncologique,Dr. Michel,0
+STG_030,CHU Marseille,Marseille,Parodontologie,Dr. Robert,0
+STG_031,CHU Lille,Lille,Stérilisation hospitalière,Dr. Richard,0
+STG_032,Clinique du Parc,Roubaix,Omnipratique dentaire,Dr. Richard,0
+STG_033,CH Lens,Lens,Gynécologie-Obstétrique,Dr. Roux,1
+STG_034,Clinique du Parc,Roubaix,Psychiatrie,Dr. Michel,0
+STG_035,CHU Marseille,Marseille,Salle de naissance,Dr. Moreau,0
+STG_036,CH Dunkerque,Dunkerque,Pharmacie oncologique,Dr. Michel,0
+STG_037,Clinique Saint-Luc,Bruxelles,Urgences,Dr. Lefebvre,0
+STG_038,CH Lens,Lens,Stérilisation hospitalière,Dr. Dubois,0
+STG_039,CH Lens,Lens,Planification familiale,Dr. Richard,0
+STG_040,CHU Lille,Lille,Omnipratique dentaire,Dr. Durand,1
+STG_041,CHU Bordeaux,Bordeaux,Pharmacie oncologique,Dr. Laurent,0
+STG_042,CHU Paris,Paris,Médecine générale,Dr. Lefebvre,0
+STG_043,CHU Paris,Paris,Suivi grossesse pathologique,Dr. Simon,0
+STG_044,CHU Paris,Paris,Neurologie,Dr. Laurent,0
+STG_045,CHU Bordeaux,Bordeaux,Orthodontie,Dr. Martin,0
+STG_046,CHU Lille,Lille,Orthodontie,Dr. Bertrand,0
+STG_047,CHU Bordeaux,Bordeaux,Médecine générale,Dr. David,0
+STG_048,CHU Paris,Paris,Gynécologie-Obstétrique,Dr. Simon,0
+STG_049,CHU Marseille,Marseille,Orthopédie,Dr. Lefebvre,0
+STG_050,CHU Lyon,Lyon,Ophtalmologie,Dr. Roux,0
+STG_051,CH Dunkerque,Dunkerque,Chirurgie générale,Dr. Simon,0
+STG_052,CHU Bordeaux,Bordeaux,Gynécologie-Obstétrique,Dr. Laurent,1
+STG_053,CHU Lille,Lille,Orthopédie,Dr. Richard,0
+STG_054,CHU Lille,Lille,Pédiatrie,Dr. Leroy,0
+STG_055,Clinique du Parc,Roubaix,Néonatologie,Dr. David,0
+STG_056,CHU Lyon,Lyon,Pédiatrie,Dr. Thomas,0
+STG_057,Clinique Saint-Luc,Bruxelles,Chirurgie orale,Dr. Dubois,1
+STG_058,CH Lens,Lens,Suivi grossesse pathologique,Dr. David,0
+STG_059,CHU Paris,Paris,Dermatologie,Dr. Laurent,1
+STG_060,Clinique Saint-Luc,Bruxelles,Cardiologie,Dr. Simon,0
+STG_061,Clinique du Parc,Roubaix,Psychiatrie,Dr. Robert,0
+STG_062,CHU Paris,Paris,Suivi grossesse pathologique,Dr. Roux,0
+STG_063,CHU Lyon,Lyon,Urgences,Dr. Richard,0
+STG_064,Clinique du Parc,Roubaix,Urgences,Dr. Roux,0
+STG_065,CHU Paris,Paris,Gynécologie-Obstétrique,Dr. Richard,0
+STG_066,CHU Lyon,Lyon,Planification familiale,Dr. Thomas,0
+STG_067,CH Valenciennes,Valenciennes,Pharmacologie clinique,Dr. Laurent,0
+STG_068,Clinique Saint-Luc,Bruxelles,Biologie médicale,Dr. Bernard,0
+STG_069,Clinique Saint-Luc,Bruxelles,Omnipratique dentaire,Dr. Bertrand,0
+STG_070,CH Lens,Lens,Orthopédie,Dr. Simon,0
+STG_071,CHU Lyon,Lyon,Urgences,Dr. Simon,0
+STG_072,CHU Bordeaux,Bordeaux,Parodontologie,Dr. David,0
+STG_073,CH Valenciennes,Valenciennes,Chirurgie orale,Dr. Bernard,0
+STG_074,CHU Marseille,Marseille,Psychiatrie,Dr. Bernard,0
+STG_075,CHU Paris,Paris,Pharmacie oncologique,Dr. Durand,0
+STG_076,CH Valenciennes,Valenciennes,Orthodontie,Dr. Lefebvre,1
+STG_077,CHU Lyon,Lyon,Pneumologie,Dr. Moreau,0
+STG_078,CH Dunkerque,Dunkerque,Cardiologie,Dr. Durand,0
+STG_079,CHU Paris,Paris,Planification familiale,Dr. Thomas,0
+STG_080,CHU Lille,Lille,Omnipratique dentaire,Dr. Garcia,0
+STG_081,Clinique Saint-Luc,Bruxelles,Ophtalmologie,Dr. Martin,0
+STG_082,CHU Lyon,Lyon,Biologie médicale,Dr. Simon,0
+STG_083,CHU Lille,Lille,Chirurgie générale,Dr. Petit,0
+STG_084,CH Lens,Lens,Psychiatrie,Dr. Bertrand,0
+STG_085,Clinique du Parc,Roubaix,ORL,Dr. Roux,1
+STG_086,CHU Marseille,Marseille,Chirurgie générale,Dr. Laurent,0
+STG_087,CHU Marseille,Marseille,Officine,Dr. Leroy,0
+STG_088,CHU Lille,Lille,Ophtalmologie,Dr. Robert,0
+STG_089,Clinique Saint-Luc,Bruxelles,Stérilisation hospitalière,Dr. Moreau,0
+STG_090,CH Lens,Lens,Néonatologie,Dr. Thomas,0
+STG_091,CH Dunkerque,Dunkerque,Biologie médicale,Dr. Robert,0
+STG_092,Clinique Saint-Luc,Bruxelles,Ophtalmologie,Dr. Moreau,0
+STG_093,CH Valenciennes,Valenciennes,Omnipratique dentaire,Dr. Simon,0
+STG_094,CHU Marseille,Marseille,Urgences,Dr. Moreau,0
+STG_095,CH Valenciennes,Valenciennes,Biologie médicale,Dr. Durand,0
+STG_096,CHU Paris,Paris,ORL,Dr. Bernard,1
+STG_097,CHU Bordeaux,Bordeaux,Biologie médicale,Dr. Durand,0
+STG_098,CHU Lyon,Lyon,Prothèse dentaire,Dr. David,0
+STG_099,CH Lens,Lens,Psychiatrie,Dr. Robert,0
+STG_100,Clinique Saint-Luc,Bruxelles,Gastro-entérologie,Dr. Dubois,0

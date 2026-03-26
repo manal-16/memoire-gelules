@@ -1,0 +1,49 @@
+﻿id_competence,competence
+MED_C01,Réaliser un examen clinique complet
+MED_C02,Formuler une hypothèse diagnostique
+MED_C03,Interpréter des examens complémentaires
+MED_C04,Rédiger une prescription médicamenteuse
+MED_C05,Poser une voie veineuse périphérique
+MED_C06,Réaliser une ponction lombaire
+MED_C07,Interpréter un ECG
+MED_C08,Annoncer une mauvaise nouvelle
+MED_C09,Travailler en équipe pluridisciplinaire
+MED_C10,Communiquer avec le patient et sa famille
+MED_C11,Gérer une situation d'urgence vitale
+MED_C12,Raisonner de façon clinique réflexive
+MED_C13,Rédiger un compte-rendu d'hospitalisation
+MED_C14,Participer à une démarche qualité et sécurité
+MAI_C01,Assurer le suivi prénatal physiologique
+MAI_C02,Conduire un accouchement eutocique
+MAI_C03,Assurer les soins du post-partum
+MAI_C04,Prendre en charge le nouveau-né
+MAI_C05,Réaliser un examen gynécologique de prévention
+MAI_C06,Prescrire et adapter une contraception
+MAI_C07,Dépister et orienter une situation pathologique
+MAI_C08,Accompagner psychologiquement la patiente
+MAI_C09,Travailler en collaboration interprofessionnelle
+MAI_C10,Conduire une démarche de santé publique périnatale
+MAI_C11,Gérer une urgence obstétricale
+MAI_C12,Initier une démarche de recherche en maïeutique
+PHA_C01,Dispenser un médicament et valider une ordonnance
+PHA_C02,Réaliser une analyse pharmaceutique de prescription
+PHA_C03,Accompagner le patient dans son parcours de soin
+PHA_C04,Réaliser une préparation pharmaceutique hospitalière
+PHA_C05,Gérer le circuit du médicament en établissement
+PHA_C06,Réaliser une conciliation médicamenteuse
+PHA_C07,Détecter et déclarer une erreur médicamenteuse
+PHA_C08,Conduire une action de prévention et santé publique
+PHA_C09,Communiquer avec le patient et les professionnels
+PHA_C10,Appliquer les règles de gestion qualité et risques
+DEN_C01,Réaliser un examen bucco-dentaire complet
+DEN_C02,Établir un diagnostic et un plan de traitement
+DEN_C03,Réaliser des soins conservateurs
+DEN_C04,Réaliser une extraction dentaire simple
+DEN_C05,Poser une prothèse dentaire fixe ou amovible
+DEN_C06,Pratiquer la prévention bucco-dentaire
+DEN_C07,Gérer une urgence bucco-dentaire
+DEN_C08,Communiquer avec le patient et obtenir le consentement
+DEN_C09,Appliquer les règles d'hygiène et asepsie
+DEN_C10,Coordonner les soins avec d'autres professionnels
+DEN_C11,Appliquer les règles juridiques et déontologiques
+DEN_C12,Réaliser des actes de parodontologie
